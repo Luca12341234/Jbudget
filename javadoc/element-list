@@ -1,0 +1,13 @@
+it.unicam.cs.mpgc.jbudget125576
+it.unicam.cs.mpgc.jbudget125576.control
+it.unicam.cs.mpgc.jbudget125576.control.dto
+it.unicam.cs.mpgc.jbudget125576.control.impl
+it.unicam.cs.mpgc.jbudget125576.control.query
+it.unicam.cs.mpgc.jbudget125576.infra
+it.unicam.cs.mpgc.jbudget125576.infra.persistency
+it.unicam.cs.mpgc.jbudget125576.model
+it.unicam.cs.mpgc.jbudget125576.model.entity
+it.unicam.cs.mpgc.jbudget125576.model.enums
+it.unicam.cs.mpgc.jbudget125576.model.viewmodel
+it.unicam.cs.mpgc.jbudget125576.view
+it.unicam.cs.mpgc.jbudget125576.view.base
